@@ -1,0 +1,82 @@
+[
+    {
+        "question": "How can I track my order?",
+        "answer": "You can track your order using the tracking link sent to your registered email or phone number."
+    },
+    {
+        "question": "Where is my order?",
+        "answer": "Please check your order confirmation email for the latest tracking information."
+    },
+    {
+        "question": "How long does delivery take?",
+        "answer": "Standard delivery usually takes 3 to 7 business days. Actual delivery time depends on your location."
+    },
+    {
+        "question": "What are the delivery charges?",
+        "answer": "Delivery charges depend on your location and order value. Check the charges displayed at checkout."
+    },
+    {
+        "question": "How can I cancel my order?",
+        "answer": "If your order has not been shipped, contact customer support to request cancellation."
+    },
+    {
+        "question": "Can I return a product?",
+        "answer": "Return eligibility depends on the product and the seller's return policy. Please check the return policy before requesting a return."
+    },
+    {
+        "question": "How do I request a refund?",
+        "answer": "Contact customer support with your order details to request a refund. Refund eligibility and processing time depend on the applicable policy."
+    },
+    {
+        "question": "What payment methods are accepted?",
+        "answer": "Available payment methods may include UPI, debit cards, credit cards, net banking, and cash on delivery, depending on the store."
+    },
+    {
+        "question": "My payment failed. What should I do?",
+        "answer": "Check whether the amount was deducted from your account. If it was deducted and your order was not confirmed, contact customer support with your transaction details."
+    },
+    {
+        "question": "How can I contact customer support?",
+        "answer": "Please contact the store's official customer support team through its website or registered support email."
+    },
+    {
+        "question": "Can I change my delivery address?",
+        "answer": "You may be able to change your delivery address before the order is shipped. Contact customer support as soon as possible."
+    },
+    {
+        "question": "What should I do if I receive a damaged product?",
+        "answer": "Take photos of the damaged product and packaging, then contact customer support to ask about replacement or return options."
+    },
+    {
+        "question": "How can I apply a discount coupon?",
+        "answer": "Enter your valid coupon code in the discount or promo code field during checkout and apply it before completing payment."
+    },
+    {
+        "question": "Do you offer cash on delivery?",
+        "answer": "Cash on delivery availability depends on the store, product, and delivery location. Check the available payment options at checkout."
+    },
+    {
+        "question": "I received the wrong product. What should I do?",
+        "answer": "Contact customer support with your order details and photos of the received product to ask about a return or replacement."
+    },
+    {
+        "question": "How do I create an account?",
+        "answer": "Open the store's website, select Sign Up or Register, and follow the instructions to create your account."
+    },
+    {
+        "question": "I forgot my password. How can I reset it?",
+        "answer": "Select Forgot Password on the login page and follow the instructions sent to your registered email or phone number."
+    },
+    {
+        "question": "How can I check product availability?",
+        "answer": "Open the product page and check its stock status. Availability may vary by location."
+    },
+    {
+        "question": "Can I exchange a product?",
+        "answer": "Exchange options depend on the product and the store's policy. Contact customer support to confirm whether your item is eligible."
+    },
+    {
+        "question": "Thank you",
+        "answer": "You're welcome! I'm happy to help. Do you have another customer support question?"
+    }
+]
