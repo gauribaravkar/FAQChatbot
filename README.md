@@ -63,11 +63,6 @@ The application will open in your browser.
 4. Cosine similarity compares the questions.
 5. The chatbot displays the best matching answer when the similarity score meets the configured threshold.
 
-## Result
-
-<img width="1300" height="900" alt="Screenshot 2026-10-29 232657" src="https://github.com/user-attachments/assets/c906cc6b-a7be-4477-93fe-5092e5233bbb" />
-<img width="1300" height="900" alt="Screenshot 2026-10-29 232716" src="https://github.com/user-attachments/assets/483df5e8-2b1e-44c0-940b-711b67093ce4" />
-
 
 ## Example
 
