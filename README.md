@@ -66,10 +66,12 @@ The application will open in your browser.
 ## Result
 
 ### Chatbot Interface
-![CustomerCare AI Interface](https://github.com/gauribaravkar/FAQChatbot/blob/main/homepage.png)
+<img width="1200" height="900" alt="homepage" src="https://github.com/user-attachments/assets/b53c1c13-a854-4e19-b3dd-8109d1cd91aa" />
+
 
 ### Chatbot Response
-![CustomerCare AI Response](https://github.com/gauribaravkar/FAQChatbot/blob/main/response.png)
+<img width="1200" height="900" alt="response" src="https://github.com/user-attachments/assets/1d4f289b-fe12-47c6-b94f-a1d17e1032ff" />
+
 
 ## Example
 
