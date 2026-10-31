@@ -37,7 +37,7 @@ CodeAlpha_FAQChatbot/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/gauribaravkar/FAQChatbot.git
+https://github.com/gauribaravkar/FAQChatbot.git
 ```
 ### 2. Open the Project Folder
 
