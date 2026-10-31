@@ -38,7 +38,11 @@ CodeAlpha_FAQChatbot/
 
 ```bash
 git clone https://github.com/gauribaravkar/FAQChatbot.git
-cd CodeAlpha_FAQChatbot
+```
+### 2. Open the Project Folder
+
+```bash
+cd FAQChatbot
 ```
 
 ### 2. Install dependencies
