@@ -37,7 +37,7 @@ CodeAlpha_FAQChatbot/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL](https://github.com/gauribaravkar/FAQChatbot.git
+git clone https://github.com/gauribaravkar/FAQChatbot.git
 cd CodeAlpha_FAQChatbot
 ```
 
